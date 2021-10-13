@@ -7,5 +7,5 @@
 - 🤔 I’m looking for help with ... Backend stuff
 - 📫 How to reach me: ... linkedin.com/in/quang-nguyễn-4a3098150
 - 😄 Pronouns: ... He/him
-- ⚡ Fun fact: ... I enjoy learning languages (not programming languages)
+- ⚡ Fun fact: ... I enjoy learning new languages (not programming languages)
 
