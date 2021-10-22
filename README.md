@@ -7,5 +7,4 @@
 - 🤔 I’m looking for help with Backend stuffs
 - 📫 How to reach me: [My LinkedIn](https://www.linkedin.com/in/quang-nguy%E1%BB%85n-4a3098150/) 
 - 😄 Pronouns: He/him
-- ⚡ Fun fact: I enjoy learning new languages (not programming languages)
 
